@@ -1,0 +1,5 @@
+lien API :
+https://mon-api-fastapi-32b9272786a2.herokuapp.com/
+
+lien GitHub associé :
+https://github.com/Olivier-DataScience/scoring_api/tree/master
